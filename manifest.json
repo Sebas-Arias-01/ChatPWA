@@ -1,0 +1,22 @@
+{
+  "name": "Chat PWA",
+  "short_name": "Chat",
+  "description": "Aplicación de Chat para el Taller 10",
+  "scope": "/ChatPWA/",
+  "start_url": "/ChatPWA/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
+  "icons": [
+    {
+      "src": "img/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
